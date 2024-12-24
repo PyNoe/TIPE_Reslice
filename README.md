@@ -11,3 +11,7 @@ Le reslice est extrait de la vidéo suivante (au format GIF) :
 Reslice obtenu sur l'analyse de 4px :
 
 ![](https://github.com/PyNoe/TIPE_Reslice/blob/main/reslice.jpg)
+
+Obtention du reslice
+
+![](https://github.com/PyNoe/TIPE_Reslice/blob/main/ExplicationsReslice.png)
