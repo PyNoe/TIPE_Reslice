@@ -7,3 +7,7 @@ Deux scripts python :
 Le reslice est extrait de la vidéo suivante (au format GIF) :
 
 ![](https://github.com/PyNoe/TIPE_Reslice/blob/main/Reslice.gif)
+
+Reslice obtenu sur l'analyse de 4px :
+
+![](https://github.com/PyNoe/TIPE_Reslice/blob/main/reslice.jpg)
